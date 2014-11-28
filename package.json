@@ -1,0 +1,21 @@
+{
+  "name": "osh-async-series",
+  "version": "0.0.0",
+  "description": "openscihub.org: imitation of async.series",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -C"
+  },
+  "keywords": [
+    "async",
+    "series"
+  ],
+  "author": "Carl A. Bauer",
+  "license": "MIT",
+  "devDependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
